@@ -305,3 +305,13 @@ html,body {
     background-color: #333333;
   }
 }
+
+/* Gitչʾ */
+#MaYunLogo {position: fixed;top: 5px;left: 5px;opacity: 0.6;z-index:99998;width: 5%;}
+.osc_git_box {position: fixed;top: 5px;left: 5px;z-index:99999;display:none}
+.pro_name a{color: #4183c4;}
+.osc_git_title{background-color: #d8e5f1;}
+.osc_git_box{background-color: #fafafa;}
+.osc_git_box{border-color: #ddd;}
+.osc_git_info{color: #666;}
+.osc_git_main a{color: #4183c4;}
