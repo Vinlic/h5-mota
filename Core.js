@@ -4394,14 +4394,6 @@ function StartGame(){
 		    Event.OpenEnemyBook();
 		  }
 		}
-		
-		document.getElementById('MaYunLogo').onmouseover = function(){
-			document.getElementsByClassName('osc_git_box')[0].style.display = "block";
-		}
-		
-		document.getElementsByClassName('osc_git_box')[0].onmouseleave = function(){
-			document.getElementsByClassName('osc_git_box')[0].style.display = "none";
-		}
 
 		//用户按下键盘某按键时触发
 		window.document.onkeydown = function (event) {
